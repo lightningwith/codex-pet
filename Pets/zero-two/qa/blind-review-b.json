@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has the nose and chin displaced right, with the right eye compressed near the facial edge; B has the nose and chin displaced left, with the left eye compressed near the facial edge."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows the broader cheek on the right and the facial point toward the left; B shows the broader cheek on the left and the facial point toward the right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose and mouth sit left of the head center and the left eye is foreshortened; B's nose and mouth sit right of the head center and the right eye is foreshortened."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A exposes the left ear and presents the nose toward the right facial edge; B exposes the right ear and presents the nose toward the left facial edge."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's visible left ear, broader left cheek, and rightward nose indicate right; B's visible right ear, broader right cheek, and leftward nose indicate left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered heads, A's left ear and cheek remain more exposed with the nose offset right; B's right ear and cheek remain more exposed with the nose offset left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's facial point and eye grouping are offset left with the right side of the face more exposed; B's facial point and eye grouping are offset right with the left side more exposed."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a raised chin, exposed lower face, and upward-directed pupils; B has a tucked chin, lowered eyelids, and eyes partly covered by the bangs."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's chin is lifted and the pupils sit high in the open eyes; B's chin is tucked and the low, narrow eye apertures sit under the bangs."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A presents a lifted facial point and high pupils with more lower cheek visible; B presents a lowered facial point and eyes looking down beneath the fringe."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes are lower under the fringe and its facial point is tucked downward; B's pupils and nose are raised, with the chin lifted and more lower cheek exposed."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's bangs cover most of the upper eyes and the chin is tucked; B's chin is lifted and the open eyes and pupils aim above the horizontal."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose and chin are lifted with high pupils and visible lower cheek; B's eyelids are lowered beneath the bangs and the chin points down toward the collar."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a slightly raised nose and chin with more open eyes and high pupils; B has a visibly tucked facial point and narrower eyes looking downward under the fringe."
+    }
+  ]
+}

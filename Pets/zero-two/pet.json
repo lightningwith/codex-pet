@@ -1,0 +1,26 @@
+{
+  "name": "02",
+  "description": "《DARLING in the FRANXX》的 Q 版 02，粉色长发、红色双角与青绿色眼睛。",
+  "sprite_version_number": 2,
+  "spritesheet": "final/spritesheet-extended.png",
+  "width": 1536,
+  "height": 2288,
+  "columns": 8,
+  "rows": 11,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "7e40bd9cfc62aa9ebb8035ff57a873f6f1b0599e24320f16d68b640865baa1b2"
+}

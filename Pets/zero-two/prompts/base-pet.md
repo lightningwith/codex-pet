@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 02.
+
+Pet identity: Zero Two from DARLING in the FRANXX. Long straight pastel pink hair with blunt bangs, two small crimson horns, white headband, turquoise green anime eyes, fair skin, red double-breasted military uniform dress with white collar and gold buttons, black tights, white short boots. Wholesome compact chibi anime character, about 2.5 heads tall, full body, confident playful smile. Symmetric costume, no arm insignia or text or props. Hair ends form one connected silhouette. No coat. Every limb and hair must remain connected..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Clean anime chibi cel shading, crisp dark outline, large expressive consistent turquoise eyes, compact full body, no white sticker border, no shadow.
+
+
+Place a single centered pose on a perfectly flat pure user-selected #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

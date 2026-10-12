@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its nose and pointed cheek aimed right, with the right-side eye narrowed by the turn. B has its nose and cheek aimed left and its left-side eye foreshortened."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's smaller eye is on the screen-left edge of the face and the nose projects left. B's nose projects right and its screen-right eye is the smaller far eye."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible nose tip and chin are displaced left from the head center, with the left eye compressed. B's nose and face contour project right, and the right eye is compressed."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A shows a broad screen-left eye, a narrow screen-right eye, and a nose pointing right. B shows the opposite eye foreshortening and a nose pointing left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's face profile and nose point right, with the right eye at the face edge. B's face profile and nose point left, with the left eye at the face edge."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite both heads being lowered, A's nose and chin point right and its screen-right eye is narrower. B's nose and chin point left and its screen-left eye is narrower."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's lowered face has the screen-left eye foreshortened and the nose shifted left. B has the screen-right eye foreshortened and the nose shifted right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A's chin is raised, the underside of the face is exposed, and the eyes look upward beneath the bangs. B's chin is tucked, the crown is prominent, and the eyes sit under lowered bangs."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose and chin lift toward the upper right and the eyes are visibly raised. B's face is tipped forward, with its chin tucked close to the collar and the eyes lowered under the fringe."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's face points above the horizontal, with an elevated nose and open upward-looking eyes. B's nose and chin angle downward and the eyelids and bangs obscure more of the eyes."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's nose and chin slope slightly downward, with a lowered eyeline and less exposed neck. B's nose and chin lift slightly and the eyes look toward the upper right."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's chin is tucked and the forehead and crown dominate above narrowed eyes. B lifts the chin and nose, exposing the lower face and directing the eyes upward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose and chin are raised toward the upper left, with a clearly open upward eyeline. B's head tips forward with the eyes shaded by the fringe and the chin drawn toward the collar."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "down",
+      "reason": "A has a mild downward head pitch: the bangs sit low over the eyes and the chin is close to the collar. B also pitches downward, with a more tucked chin and lowered eyes beneath the fringe."
+    }
+  ]
+}

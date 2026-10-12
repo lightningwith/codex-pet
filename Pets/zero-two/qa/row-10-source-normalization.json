@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "method": "one uniform whole-source resize; no per-pose operations",
+  "original": ".\\decoded\\look-row-10-v3-original.png",
+  "normalized": ".\\decoded\\look-row-10.png",
+  "original_sha256": "d2cfb98bdcaf01f75954593cb71a3f293d92dc4b69ba84c8742caaac601f46fa",
+  "normalized_sha256": "5551c75dc2c0071d29eb077c7923805899c80be78a0afeb3e498b73bb6944c7a",
+  "original_size": [
+    2172,
+    724
+  ],
+  "normalized_size": [
+    1917,
+    639
+  ],
+  "original_pose_heights": [
+    505,
+    506,
+    508,
+    508,
+    506,
+    507,
+    512,
+    520
+  ],
+  "row9_source_heights": [
+    457,
+    458,
+    459,
+    459,
+    458,
+    458,
+    453,
+    447
+  ],
+  "median_matching_factor": 0.9024630541871921,
+  "safe_factor_from_bundled_normalization_scale": 0.8826923076923077,
+  "applied_factor": 0.8826923076923077,
+  "row9_registration_scale_unchanged": 0.42701525054466233,
+  "neutral_geometry": {
+    "height": 196,
+    "lower_center_x": 94.79083969465648,
+    "bottom": 202
+  },
+  "reason": "Source unit correction: original row10 exceeds final cell bounds with accepted row9 scale. Uniform whole-source factor preserves coherent pose family and relative spacing."
+}

@@ -1,0 +1,24 @@
+# Local Python dependencies and caches
+**/runtime/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Locally generated previews and upload staging
+output/
+.local/
+.github-publish-work/
+
+# Account records and temporary generation jobs
+**/created-pet.json
+**/imagegen-jobs.json
+*.log
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

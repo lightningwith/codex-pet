@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose and chin project to the right, with the left ear exposed and the right eye foreshortened. B's nose and chin project left, with the right ear exposed and the left eye foreshortened."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's facial midline lies left of the head center and its right-side eye is broader. B's facial midline projects right and its left-side eye is broader, with the left ear exposed."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows the right ear and a leftward nose projection; its screen-right eye is larger. B shows the left ear and a rightward nose projection; its screen-left eye is larger."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose and pointed chin sit toward the right facial edge, with its left cheek and ear exposed. B's nose and chin point left, with its right cheek and ear exposed."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a larger screen-left eye and a narrow screen-right eye beside a rightward nose. B has a larger screen-right eye and a narrow screen-left eye beside a leftward nose."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered heads, A's facial midline and nose are displaced right and the left ear is visible. B's facial midline and nose are displaced left and the right cheek is broader."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's lowered face has its nose toward the left and a broader screen-right eye. B's lowered face has its nose toward the right and a broader screen-left eye."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts the chin, exposes a broad lower face and places the eyes high on the upward-tilted face. B exposes the crown and headband, tucks the chin and peers downward beneath the fringe."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's chin and nose are lifted, with the eyes aimed toward the upper facial edge. B's crown is exposed and the chin is tucked beneath low, partly hooded eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose points upward and the lifted chin leaves a broad cheek and jaw area below the eyes. B's eyes are lowered beneath the fringe and the face angles down toward a tucked chin."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's pupils sit lower under flatter upper lids and its nose and chin angle slightly downward. B's pupils and nose are raised, with a lifted chin and more open lower-face plane."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the top of the head and a tucked chin, with eyes directed below the fringe. B raises its nose and chin and directs the visible pupils upward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes look upward and the nose and chin are lifted, exposing a larger lower-face area. B shows more crown and headband while the eyes look down and the chin is tucked."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose and chin are slightly lifted and the pupils sit high in the visible eye openings. B's upper lids hood the lowered pupils and its nose and chin angle downward."
+    }
+  ]
+}

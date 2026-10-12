@@ -1,0 +1,83 @@
+{
+  "ok": true,
+  "artifact": ".\\final\\spritesheet-extended-raw.png",
+  "source": ".\\decoded\\look-row-10.png",
+  "qa_sheet": ".\\qa\\look-row-10-assembly-check.png",
+  "rows": [
+    {
+      "degrees": 180,
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Head frontal and bowed; chin dips and both narrowed irises sit low, with torso and boots frontal."
+    },
+    {
+      "degrees": 202.5,
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Chin remains down while nose and low irises shift slightly toward viewer-left; both eyes visible."
+    },
+    {
+      "degrees": 225,
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Modest left head yaw with nose left and lowered chin/irises; both original eyes remain visible."
+    },
+    {
+      "degrees": 247.5,
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Leftward nose and irises dominate with slight remaining chin dip; frontal torso and planted boots."
+    },
+    {
+      "degrees": 270,
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Modest left three-quarter head, nose and both irises toward viewer-left, level chin; both eyes visible."
+    },
+    {
+      "degrees": 292.5,
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Leftward yaw remains while chin begins lifting and irises rise toward upper-left; both eyes visible."
+    },
+    {
+      "degrees": 315,
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin raised and upper-left irises, residual leftward nose; both original eyes remain visible."
+    },
+    {
+      "degrees": 337.5,
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Head approaches frontal with clear upward pitch and high irises plus residual leftward nose/gaze."
+    }
+  ],
+  "boundaries": {
+    "157.5_to_180": {
+      "verdict": "pass",
+      "evidence": "Down-right bowed head advances to centered down gaze; boots keep shared baseline and body stays frontal."
+    },
+    "337.5_to_000": {
+      "verdict": "pass",
+      "evidence": "Raised head with residual left yaw approaches centered up pitch; no side reversal, clipping or baseline shift."
+    }
+  },
+  "geometry": {
+    "pose_count": 8,
+    "source_complete_connected": true,
+    "both_eyes_visible": true,
+    "whole_body_fixed": true,
+    "assembly_structural_check": "passed bundled assembler with unchanged row9 transform",
+    "despill_applied": false,
+    "source_correction_report": ".\\qa\\row-10-source-normalization.json"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "atlas": ".\\final\\spritesheet-extended.png",
+  "preview_dir": ".\\previews\\final",
+  "standard_frames": 57,
+  "look_frames": 16,
+  "motion_proof_stills": 4
+}
